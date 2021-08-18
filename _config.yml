@@ -8,9 +8,9 @@ url: "http://dayumsam.com" # the base hostname & protocol for your site, e.g. ht
 theme: minima
 plugins:
   - jekyll-feed
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
