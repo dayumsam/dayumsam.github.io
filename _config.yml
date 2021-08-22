@@ -8,6 +8,7 @@ url: "http://dayumsam.com" # the base hostname & protocol for your site, e.g. ht
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - .sass-cache/
   - .jekyll-cache/
